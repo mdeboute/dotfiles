@@ -2,16 +2,17 @@
 
 ## my zsh 💻
 
-This repository aims to help people like me who land on the [Issues channel](https://github.com/dracula/terminal-app/issues/14) of @benknoble's dracula/terminal-app repository because their zsh colorization is not configured.
+This repository aims to help people like me who land on the [Issues channel](https://github.com/dracula/terminal-app/issues/14) of [@benknoble](https://github.com/benknoble)'s [dracula/terminal-app](https://github.com/dracula/terminal-app) repository because their zsh colorization is not configured.
 
-You just need a ~/.zsh folder and a ~/.zshrc file (*cf.* the requirements.txt file).
+You just need a ~/.zsh folder and a ~/.zshrc file (*cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
 
 ## my vim/git ✨
-To have a complete experience of the theme.
 
-You just need a ~/.vim folder, a ~/.vimrc file and a ~/.gitconfig file (one more time *cf.* the requirements.txt file).
+To have the most complete experience of this theme.
+
+You just need a ~/.vim folder, a ~/.vimrc file and a ~/.gitconfig file (one more time *cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
 
 ![alt text](https://github.com/mdeboute/my_awesome_zsh/blob/main/assets/Capture%20d’écran%202020-10-13%20à%2019.02.08%202.png)
 
 
-([here](https://stackoverflow.com/questions/689765/how-can-i-change-the-color-of-my-prompt-in-zsh-different-from-normal-text) somes cool ressources to help you customize your zsh prompt)
+([here](https://stackoverflow.com/questions/689765/how-can-i-change-the-color-of-my-prompt-in-zsh-different-from-normal-text) there are somes nice resources to help you customize your zsh prompt)
