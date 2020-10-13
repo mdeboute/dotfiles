@@ -1,0 +1,29 @@
+[user]
+	name = your_name
+	email = your_email
+[core]
+	editor = your_favorite_editor
+	excludesfile = ~/.gitignore_global
+[merge]
+	tool = you_tool_diff
+
+#add this
+[color]
+  ui = auto
+  diff = auto
+  status = auto
+[color "branch"]
+  current = cyan
+  local = green
+  remote = red
+[color "diff"]
+  meta = yellow
+  frag = magenta
+  old = red
+  new = green
+[color "status"]
+  added = cyan
+  branch = cyan
+  changed = magenta
+  deleted = red
+  untracked = yellow

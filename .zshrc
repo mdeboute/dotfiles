@@ -2,7 +2,7 @@ archey
 
 autoload -U colors && colors
 
-# Set up aliases
+# Set up some really useful aliases
 alias h=history
 alias la='ls -a'
 alias cl='clear'
@@ -17,7 +17,7 @@ alias wrk="cd ~/Desktop/yourWorkFolder"
 alias prj="cd ~/Desktop/yourPersonnalFolder/"
 alias d="cd ~/Desktop/"
 
-# conda env
+# conda environment (pretty useful for data science)
 alias pev=". /opt/anaconda3/bin/activate && conda activate /opt/anaconda3;"
 
 # open ~/.zshrc in using the default editor specified in $EDITOR
@@ -26,15 +26,15 @@ alias ec="$EDITOR $HOME/.zshrc"
 # source ~/.zshrc
 alias sc="source $HOME/.zshrc"
 
-export EDITOR=/usr/bin/vim
+export EDITOR=/usr/bin/vim #Vim team for me
 
 # macOS aliasses
 if [[ $OSTYPE == darwin* ]]; then
-alias flsh='dscacheutil -flushcache'
+alias flsh='dscacheutil -flushcache' #DNS flush --> no more cookies, more anonymity
 # Apps
 alias brws="open -a /Applications/Safari.app"
 fi
 
-source /Users/mdeboute/.zsh/themes/dracula.zsh-theme
+source ~/.zsh/themes/dracula.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
