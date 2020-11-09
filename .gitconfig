@@ -1,13 +1,11 @@
 [user]
-	name = your_name
-	email = your_email
+	name = 
+	email =
 [core]
-	editor = your_favorite_editor
+	editor = vim
 	excludesfile = ~/.gitignore_global
 [merge]
-	tool = you_tool_diff
-
-#add this
+	tool = vimdiff
 [color]
   ui = auto
   diff = auto
@@ -27,3 +25,10 @@
   changed = magenta
   deleted = red
   untracked = yellow
+[push]
+  default = matching
+[filter "lfs"]
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
+  required = true
