@@ -46,4 +46,5 @@ fi
 
 source ~/.zsh/themes/dracula.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/wakatime/wakatime.plugin.zsh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
