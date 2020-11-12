@@ -2,15 +2,13 @@
 
 ## my zsh 💻
 
-This repository aims to help people like me who land on the [Issues channel](https://github.com/dracula/terminal-app/issues/14) of [@benknoble](https://github.com/benknoble)'s [dracula/terminal-app](https://github.com/dracula/terminal-app) repository because their zsh colorization is not configured.
+At the beginning this deposit was intended to help people like me who land on the [Issues channel](https://github.com/dracula/terminal-app/issues/14) of [@benknoble](https://github.com/benknoble)'s [dracula/terminal-app](https://github.com/dracula/terminal-app) repository because their zsh colorization is not configured but you can also see it as a dotfiles repository if you want to pimp your shell.
 
-You just need a ~/.zsh folder and a ~/.zshrc file (*cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
+You need a ~/.zsh folder and a ~/.zshrc file (*cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
 
 ## my vim/git ✨
 
-To have the most complete experience of this theme.
-
-You just need a ~/.vim folder, a ~/.vimrc file and a ~/.gitconfig file (one more time *cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
+To have the most complete experience of this theme you need a ~/.vim folder, a ~/.vimrc file and a ~/.gitconfig file (one more time *cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
 
 ![alt text](https://github.com/mdeboute/my_awesome_zsh/blob/main/assets/Capture%20d’écran%202020-10-13%20à%2019.02.08%202.png)
 
