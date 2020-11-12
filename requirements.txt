@@ -1,6 +1,7 @@
 zsh>=4.3.11
 git
 vim
+anaconda
 
 https://github.com/Homebrew/brew for the cool command 'archey'  
 
