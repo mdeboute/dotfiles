@@ -4,8 +4,6 @@ vim
 
 https://github.com/Homebrew/brew for the cool command 'archey'  
 
-+ 'sudo pip install wakatime'
-
 To clone in your ~/.zsh folder :
 
 - https://github.com/dracula/terminal-app for the dracula terminal.app theme ❤️
