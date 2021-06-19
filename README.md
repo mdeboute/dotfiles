@@ -13,4 +13,4 @@ To have the most complete experience of this theme you need a ~/.vim folder, a ~
 ![alt text](https://github.com/mdeboute/my_awesome_zsh/blob/main/assets/Capture%20d’écran%202020-10-13%20à%2019.02.08%202.png)
 
 
-*P.S* : [here](https://stackoverflow.com/questions/689765/how-can-i-change-the-color-of-my-prompt-in-zsh-different-from-normal-text) there are somes nice resources to help you customize your zsh prompt.
+*P.S*: [here](https://stackoverflow.com/questions/689765/how-can-i-change-the-color-of-my-prompt-in-zsh-different-from-normal-text) there are somes nice resources to help you customize your zsh prompt.
