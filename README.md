@@ -4,7 +4,7 @@
 
 At the beginning this deposit was intended to help people like me who land on the [Issues channel](https://github.com/dracula/terminal-app/issues/14) of [@benknoble](https://github.com/benknoble)'s [dracula/terminal-app](https://github.com/dracula/terminal-app) repository because their zsh colorization is not configured but you can also see it as a dotfiles repository if you want to pimp your shell.
 
-You need a ~/.zsh folder and a ~/.zshrc file (*cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
+You need a ~/.zsh folder and a ~/.zshrc file (*cf.* the [requirements](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements) file).
 
 ## my vim/git ✨
 
