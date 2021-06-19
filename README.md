@@ -8,7 +8,7 @@ You need a ~/.zsh folder and a ~/.zshrc file (*cf.* the [requirements.txt](https
 
 ## my vim/git ✨
 
-To have the most complete experience of this theme you need a ~/.vim folder, a ~/.vimrc file and a ~/.gitconfig file (one more time *cf.* the [requirements.txt](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements.txt) file).
+To have the most complete experience of this theme you need a ~/.vim folder, a ~/.vimrc file and a ~/.gitconfig file (one more time *cf.* the [requirements](https://github.com/mdeboute/my_awesome_terminal/blob/main/requirements) file).
 
 ![alt text](https://github.com/mdeboute/my_awesome_zsh/blob/main/assets/Capture%20d’écran%202020-10-13%20à%2019.02.08%202.png)
 
