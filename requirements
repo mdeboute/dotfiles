@@ -10,8 +10,9 @@ To clone in your ~/.zsh folder :
 - https://github.com/dracula/zsh.git for the colorized zsh prompt 🧛‍♂️
 - https://github.com/zsh-users/zsh-autosuggestions for the autosuggestions ⌨️
 - https://github.com/sobolevn/wakatime-zsh-plugin.git wakatime ⏱
-- https://github.com/zsh-users/zsh-syntax-highlighting.git for the syntax-highlighting (must me at the end of the .zshrc)
+- https://github.com/zsh-users/zsh-syntax-highlighting.git for the syntax-highlighting (must be at the end of the .zshrc)
 
-To clone in your ~/.vim folder :
+In your ~/.vim folder :
 
-- https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim for the plug 🔧
+- curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim for the plug 🔧
